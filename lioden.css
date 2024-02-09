@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+body {background: url('https://i.imgur.com/naeRJJv.png') top center fixed;background-size: 100%;font-family: Macondo;color: #181210; font-size: 16px;}
+.topbar {background: #6D4836;border: 1px #181210;border-top: none;color: #181210;}
+.navbar {background: #6D4836;border-bottom: 2px solid black;font-family: Macondo;}
+.navbar li a {color: #181210 !important;}
+.navbar li a:hover {background: #895A43 !important;}
+.container.main {background: #FDD8B3;border: 1px solid #181210);box-shadow: none;}
+.col-md-9 {background: none;}
+.breadcrumb {background: #A46D51;}
+.breadcrumb .active {color: #6D4836;}
+.panel {background: #A46D51 !important;border: none !important;box-shadow: none !important;}
+.progress {background: #FDD8B3;}
+.progress-div {color: #181210;}
+.progress-bar {background: #FBB874;}
+.chat_light {background: rgba(250,235,215,0.8) !important;text-align: center;border: 1px solid #181210;border-bottom: none;}
+.chat_dark {background: rgba(239,189,125,0.8) !important;}
+h1 {color: #6D4836;font-size: 48px;}
+h2 {color: #6D4836 !important;font-size: 36px !important;}
+h3 {color: #6D4836 !important;font-size: 24px !important;}
+.feature, div.left {background: #A46D51 !important;border: 1px solid #181210 !important;}
+.table {background: #EEDCDF;border: 1px solid #181210;border-collapse: separate;}
+.top, .bottom, th, .table .left {background: #895A43 !important;color: #181210 !important;}
+.inner-table .left {background: #895A43 !important;}
+.inner-table .right {background: #A46D51}
+.cave-grid, .mound-grid {background: #A46D51;border: 1px solid #181210;}
+.right_odd {background: #F2E4E6 !important;}
+.right_cub {background: #F2E4E6 !important;}
+.alert {background: #ECFCB1;border: 0px solid #181210;color: #B0BD85;}
+.alert-warning, .alert-danger {background: #FCB1B1;color: #CC7070;}
+a:link, a:visited {color: #181210 !important;}
+a:hover {color: #302525 !important;}
+input, select, textarea {background: #FDD8B3 !important;border: 1px solid #181210 !important;box-shadow: none !important;color: #181210 !important;text-shadow: none !important;}
+input[type=button]:hover, input[type=submit]:hover {background: #FDD8B3 !important;}
+a[href$="cave.php?id=397082"] > div.cave-grid > img {
+background: url('https://i.imgur.com/fPixBOM.png') !important;
+padding-left: 100%;
+height: 120px;
+}
+a[href$="cave.php?id=401837"] > div.cave-grid > img {
+background: url('https://i.imgur.com/8P6jdcp.png') !important;
+padding-left: 100%;
+height: 120px;
+}
+.featured-lion {background: #6D4836 !important;color: #FDD8B3 !important;}
